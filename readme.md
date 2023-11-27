@@ -2,8 +2,16 @@
 
 ## Bio:
 
+```json
+{
+  "firstName": "Ryan",
+  "lastName": "Riggin",
+  "age": 46,
+  "location:" Kansas City
+}
 ```
-  Marketing and Web Analtyics.  
+```
+Marketer, Media Buyer, Data Analyst, Developer
 ```
 
 ## Skillset
