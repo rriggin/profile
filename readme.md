@@ -3,7 +3,7 @@
 ## Bio:
 
 ```
-  Marketing Guy posing as a Developer.  
+  Marketing and Web Analtyics.  
 ```
 
 ## Skillset
