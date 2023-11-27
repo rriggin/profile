@@ -29,4 +29,4 @@ Marketer, Media Buyer, Data Analyst, Developer
 [![EMAIL](https://img.shields.io/badge/Email-black?style=for-the-badge)](mailto:riggin@gmail.com)
 [![LINKEDIN](https://img.shields.io/badge/Linkedin-black?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ryanrggin/) 
 [![](https://img.shields.io/twitter/follow/rriggin?color=blue&logo=twitter&style=for-the-badge)](https://twitter.com/rriggin)
-[![RESUME](https://img.shields.io/badge/Resume-black?style=for-the-badge)](http://github.com/rriggin/online-resume)
+[![RESUME](https://img.shields.io/badge/Resume-black?style=for-the-badge)](rriggin.github.io/online-resume/)
