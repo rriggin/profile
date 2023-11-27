@@ -7,7 +7,7 @@
   "firstName": "Ryan",
   "lastName": "Riggin",
   "age": 46,
-  "location:" Kansas City
+  "location": Kansas City
 }
 ```
 ```
