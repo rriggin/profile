@@ -6,8 +6,8 @@
 {
   "firstName": "Ryan",
   "lastName": "Riggin",
-  "age": 46,
-  "location": Kansas City
+  "age": "46",
+  "location": "Kansas City"
 }
 ```
 ```
